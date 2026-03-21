@@ -16,18 +16,18 @@ This project builds an end-to-end predictive maintenance solution to identify ma
 3. Model training using Logistic Regression  
 4. Failure probability prediction  
 5. Risk classification using threshold (0.3)  
-6. Dashboard visualization in Power BI  
+6. Dashboard visualization in Power BI
+
+<img width="1919" height="1070" alt="dashboard png" src="https://github.com/user-attachments/assets/7e2ea634-d83a-46a7-b842-e0626605e528" />
+
 
 ## Key Insights
 - Identified **3,404 high-risk machines**
 - Tool wear above **200 minutes** significantly increases failure probability
 - Overall failure rate: **3.39%**
   
-## Dashboard Preview
 
-<p align="center">
-  <img src="dashboard.png" width="800"/>
-</p>
+
 ## Dashboard Features
 - KPI monitoring (Failures, Risk Score, Temperature, Torque)
 - Risk distribution (Low / Medium / High)
