@@ -23,8 +23,11 @@ This project builds an end-to-end predictive maintenance solution to identify ma
 - Tool wear above **200 minutes** significantly increases failure probability
 - Overall failure rate: **3.39%**
   
-<img width="1919" height="1070" alt="Screenshot 2026-03-21 084610" src="https://github.com/user-attachments/assets/373be4ce-b65e-4c82-9860-1e5bb4f68663" />
+## Dashboard Preview
 
+<p align="center">
+  <img src="dashboard.png" width="800"/>
+</p>
 ## Dashboard Features
 - KPI monitoring (Failures, Risk Score, Temperature, Torque)
 - Risk distribution (Low / Medium / High)
